@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%"/>
 <h1 align="center">Hey Everyone 👋, I'm Swetha</h1>
 
 <h3 align="center">
