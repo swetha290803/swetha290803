@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone , I'm Swetha</h1>
+<h1 align="center">Hey Everyone 👋, I'm Swetha</h1>
 
 <h3 align="center">
 AI & Data Science Enthusiast | Machine Learning Enthusiast 🚀
@@ -24,9 +24,9 @@ I am passionate about:
 
 📫 Email: swethavnsst@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: www.linkedin.com/in/sai-swetha-tadimeti-3b43a1240/
 
-💡 Ask me about AI, ML & Python, Deep learning
+💡 Ask me about AI, ML & Python
 
 ---
 
@@ -38,7 +38,7 @@ I am passionate about:
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/sai-swetha-tadimeti-3b43a1240/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -124,7 +124,7 @@ Data Science & Cloud Intern
 
 🎓 MTech – Artificial Intelligence & Data Science  
 📍 CBIT Hyderabad  
-📊 CGPA: 9.12
+📊 CGPA: 9.17
 
 ---
 
