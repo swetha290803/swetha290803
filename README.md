@@ -1,25 +1,32 @@
-<h1 align="center">Hey Everyone 👋, I'm Swetha</h1>
+<h1 align="center">Hey Everyone , I'm Swetha</h1>
 
 <h3 align="center">
- AI Enthusiast 🚀
+AI & Data Science Enthusiast | Machine Learning Enthusiast 🚀
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;Data+Science+Student"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;Data+Science+Enthusiast"/>
+</p>
 
 ---
 
 # 🚀 About Me
 
 I am passionate about:
+
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 🔬 Deep Learning
 - 📊 Data Science
-- 💬 NLP
+- 💬 Natural Language Processing
 
-🎓 MTech AI & Data Science Student at CBIT Hyderabad.
+🎓 Pursuing MTech in Artificial Intelligence & Data Science at CBIT Hyderabad.
 
 📫 Email: swethavnsst@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+💡 Ask me about AI, ML & Python, Deep learning
 
 ---
 
@@ -29,6 +36,10 @@ I am passionate about:
 
 <a href="https://github.com/swetha290803">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -45,33 +56,75 @@ I am passionate about:
 
 ---
 
+# 📚 Technologies
+
+- Machine Learning
+- Deep Learning
+- NLP
+- TensorFlow
+- Keras
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
 # 🏆 Projects
 
 ## 🫁 Pulmonary Embolism Detection
+
+Implemented multimodal AI framework using:
+
 - Mask R-CNN
 - LSTM-GRU
 - ANN
-- 91.81% accuracy
+
+✅ Achieved 91.81% accuracy
 
 ---
 
 ## 🧠 EEG-Based Epilepsy Seizure Detection
+
+Built ML models using:
+
 - Random Forest
 - Gradient Boosting
-- 95.88% accuracy
+
+✅ Achieved 95.88% accuracy
 
 ---
 
-## 🩺 Diabetes Prediction Using ML
-- 97% accuracy
+## 🩺 Diabetes Prediction Using Machine Learning
+
+Built predictive ML model with:
+
+- Feature Selection
+- Data Preprocessing
+
+✅ Achieved 97% accuracy
+
+---
+
+# 💼 Internships
+
+## 🚀 PNT Labs Powered by IIT Tirupati
+
+AI & Data Science Intern
+
+---
+
+## ☁️ Cortex
+
+Data Science & Cloud Intern
 
 ---
 
 # 🎓 Education
 
-🎓 MTech – AI & Data Science  
+🎓 MTech – Artificial Intelligence & Data Science  
 📍 CBIT Hyderabad  
-📊 CGPA: 9.17
+📊 CGPA: 9.12
 
 ---
 
