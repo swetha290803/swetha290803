@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Swetha</h1>
 
-<!--
-**swetha290803/swetha290803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI & Data Science Student 🚀
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+- 🎓 MTech AI & Data Science Student
+- 💡 Interested in Machine Learning & Deep Learning
+- 🌱 Currently Learning AI Technologies
+- 📫 Email: swethavnsst@gmail.com
+
+---
+
+# 🛠 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swetha290803&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> Keep Learning 🚀
