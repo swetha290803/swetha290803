@@ -21,7 +21,7 @@ driven approaches
 
 📫 Email: swethavnsst@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/sai-swetha-tadimeti-3b43a1240/
+🔗 LinkedIn: www.linkedin.com/in/sai-swetha-tadimeti/
 
 💡 Ask me about AI, ML & Python
 
