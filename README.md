@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Swetha</h1>
 
 <h3 align="center">
-AI & Data Science Student | AI Enthusiast 🚀
+ AI Enthusiast 🚀
 </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Python+Developer;Data+Science+Student"/>
