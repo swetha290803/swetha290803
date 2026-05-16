@@ -67,6 +67,8 @@ I am passionate about:
 - Pandas
 - NumPy
 - Matplotlib
+- Pytorch
+- Data science 
 
 ---
 
