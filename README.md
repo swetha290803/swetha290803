@@ -12,15 +12,11 @@ AI & Data Science Enthusiast | Machine Learning Enthusiast 🚀
 
 # 🚀 About Me
 
-I am passionate about:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔬 Deep Learning
-- 📊 Data Science
-- 💬 Natural Language Processing
-
-🎓 Pursuing MTech in Artificial Intelligence & Data Science at CBIT Hyderabad.
+Postgraduate student specializing in Artificial Intelligence and Data Science with knowledge of machine 
+learning, data analysis, and predictive modeling. Skilled in analyzing data, building ML models, and 
+extracting meaningful insights. Familiar with Python, Deep Learning, Natural Language Processing, Data 
+Science, and data visualization, with a strong interest in solving real-world problems using AI and data
+driven approaches  
 
 📫 Email: swethavnsst@gmail.com
 
@@ -126,7 +122,7 @@ Data Science & Cloud Intern
 
 🎓 MTech – Artificial Intelligence & Data Science  
 📍 CBIT Hyderabad  
-📊 CGPA: 9.17
+📊 CGPA: 9.12
 
 ---
 
