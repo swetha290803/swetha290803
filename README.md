@@ -12,11 +12,11 @@ AI & Data Science Student | Machine Learning Enthusiast 🚀
 
 I am a passionate AI & Data Science student with strong interest in:
 
--  Artificial Intelligence
--  Machine Learning
--  Deep Learning
--  Data Science
--  Natural Language Processing
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔬 Deep Learning
+- 📊 Data Science
+- 💬 Natural Language Processing
 
 Currently pursuing MTech in Artificial Intelligence & Data Science at CBIT Hyderabad.
 
@@ -28,7 +28,7 @@ I enjoy building AI projects and solving real-world problems using data-driven a
 
 - 🌐 GitHub: https://github.com/swetha290803
 - 📫 Email: swethavnsst@gmail.com
-
+- 💡 Ask me about AI, ML & Python
 
 ---
 
@@ -119,24 +119,6 @@ Data Science & Cloud Intern
 🎓 MTech – Artificial Intelligence & Data Science  
 📍 CBIT Hyderabad  
 📊 CGPA: 9.17
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swetha290803&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swetha290803&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=swetha290803&color=blue)
 
 ---
 
